@@ -1,0 +1,6 @@
+This is feature 2. 
+A pull request for feature 1 has been accepted while 
+this feature was beeing implemented.
+I will try to rebase main to this branch and then make a
+pull request from this branch.
+Let's see how that goes.
