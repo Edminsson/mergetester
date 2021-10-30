@@ -1,1 +1,2 @@
-this is feature one.
+This is feature one.
+This is a change made to feature one later on.
