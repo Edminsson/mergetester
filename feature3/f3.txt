@@ -1,1 +1,2 @@
-This feature will be merged instead of rebased
+This feature will be merged instead of rebased.
+Change to feat3, done later.
