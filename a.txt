@@ -1,4 +1,8 @@
 Created this in local main branch.
 Changed this in a feature branch.
 Third row.
+<<<<<<< HEAD
 4th row.
+=======
+Mergekonflikt_SOLVED
+>>>>>>> 195738662987771d2d01e2861e6c9c38ee50f934
