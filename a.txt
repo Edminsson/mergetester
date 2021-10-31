@@ -1,3 +1,4 @@
 Created this in local main branch.
 Changed this in a feature branch.
 Third row.
+Mergekonflikt_LOKAL
