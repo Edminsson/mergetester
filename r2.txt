@@ -1,1 +1,2 @@
 .
+Gör en ändring i Github bara för att merge-commiten inte ska vara sist.
