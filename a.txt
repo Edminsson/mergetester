@@ -2,3 +2,4 @@ Created this in local main branch.
 Changed this in a feature branch.
 Third row.
 Lyckade tidligen pusha upp en fil med konflikter. Fixade problemet direkt i Github.
+Långt senare lägger jag till lite mer info här. Uppdaterar direkt i github.
