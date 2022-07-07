@@ -3,3 +3,4 @@ Changed this in a feature branch.
 Third row.
 Lyckade tidligen pusha upp en fil med konflikter. Fixade problemet direkt i Github.
 Långt senare lägger jag till lite mer info här. Uppdaterar direkt i github.
+Gör en ändring direkt i github samtidigt som jag håller på med en pr1. Pr-ändringarna ska rebasas i en opushad feature-branch som sen ska bli en PR.
